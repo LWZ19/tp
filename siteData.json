@@ -7,11 +7,11 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "kieron-seven-lee-jun-wei": "Kieron Seven Lee Jun Wei",
+        "liang-wenzhong": "Liang Wenzhong",
+        "lim-ngee-yong": "Lim Ngee Yong",
+        "qian-changru": "Qian Changru",
+        "yeo-boh-shin": "Yeo Boh Shin"
       },
       "headingKeywords": {}
     },
@@ -131,7 +131,28 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "classmanager-2023": "ClassManager-2023"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/changruhenryqian.md",
+      "title": "Changru's Project Portfolio Page",
+      "headings": {
+        "class-manager-2023": "Class Manager 2023",
+        "summary-of-contributions": "Summary of Contributions",
+        "code-contributed": "Code Contributed",
+        "enhancements-implemented": "Enhancements Implemented",
+        "contributions-to-the-ug": "Contributions to the UG",
+        "contributions-beyond-the-project": "Contributions beyond the Project"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/cikguseven.md",
+      "title": "Kieron's Project Portfolio Page",
+      "headings": {
+        "project-class-manager-2023": "Project: Class Manager 2023"
       },
       "headingKeywords": {}
     },
@@ -140,6 +161,40 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/lwz19.md",
+      "title": "Wen Zhong's Project Portfolio Page",
+      "headings": {
+        "project-classmanager-2023": "Project: ClassManager-2023"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/ngeeyonglim.md",
+      "title": "Ngee Yong's Project Portfolio Page",
+      "headings": {
+        "class-manager-2023": "Class Manager 2023",
+        "summary-of-contributions": "Summary of Contributions",
+        "code-contributed": "Code Contributed",
+        "enhancements-implemented": "Enhancements Implemented",
+        "contributions-to-the-ug": "Contributions to the UG",
+        "contributions-beyond-the-project": "Contributions beyond the Project"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/yeobohshin.md",
+      "title": "Boh Shin's Project Portfolio Page",
+      "headings": {
+        "class-manager-2023": "Class Manager 2023",
+        "summary-of-contributions": "Summary of Contributions",
+        "code-contributed": "Code Contributed",
+        "enhancements-implemented": "Enhancements Implemented",
+        "contributions-to-the-ug": "Contributions to the UG",
+        "contributions-beyond-the-project": "Contributions beyond the Project"
       },
       "headingKeywords": {}
     },
